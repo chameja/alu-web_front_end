@@ -49,7 +49,7 @@ a:link {
     text-decoration: none;
 }
 
-a:link {
+a:visited {
     font-style: italic;
 }
 
